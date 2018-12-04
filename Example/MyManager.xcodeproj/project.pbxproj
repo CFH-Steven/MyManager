@@ -247,6 +247,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "CFH-Steven";
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = 26N4VCTTFH;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -485,6 +488,7 @@
 			baseConfigurationReference = 1A6A849DF7A98489EE5813B1 /* Pods-MyManager_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 26N4VCTTFH;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyManager/MyManager-Prefix.pch";
 				INFOPLIST_FILE = "MyManager/MyManager-Info.plist";
@@ -500,6 +504,7 @@
 			baseConfigurationReference = 30EEF8A3D1F956FBD7018051 /* Pods-MyManager_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 26N4VCTTFH;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyManager/MyManager-Prefix.pch";
 				INFOPLIST_FILE = "MyManager/MyManager-Info.plist";
