@@ -210,6 +210,7 @@
 		81D9FCCD21B61D9C006A7BF0 /* FHCategories.h in Headers */ = {isa = PBXBuildFile; fileRef = 81D9FC0721B61D9C006A7BF0 /* FHCategories.h */; };
 		81D9FCCE21B61D9C006A7BF0 /* FHFileManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 81D9FC0821B61D9C006A7BF0 /* FHFileManager.m */; };
 		81D9FCCF21B61D9C006A7BF0 /* FHQuartzCore.h in Headers */ = {isa = PBXBuildFile; fileRef = 81D9FC0921B61D9C006A7BF0 /* FHQuartzCore.h */; };
+		81D9FCD321B62CE1006A7BF0 /* MacroDefinitionHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 81D9FCD221B62CE1006A7BF0 /* MacroDefinitionHeader.h */; };
 		B7AF14E88EC537384F7EFB240AE92F15 /* Pods-MyManager_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CF802F1FDF6DE072C463023B01DD1E92 /* Pods-MyManager_Tests-dummy.m */; };
 		C110C973EE44AC7877D9EA2631C56E66 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */; };
 		E41A0F9E5D18FCECB44896A1BAA9CF0C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */; };
@@ -449,6 +450,7 @@
 		81D9FC0721B61D9C006A7BF0 /* FHCategories.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FHCategories.h; path = MyManager/Classes/FHCategories.h; sourceTree = "<group>"; };
 		81D9FC0821B61D9C006A7BF0 /* FHFileManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FHFileManager.m; path = MyManager/Classes/FHFileManager.m; sourceTree = "<group>"; };
 		81D9FC0921B61D9C006A7BF0 /* FHQuartzCore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FHQuartzCore.h; path = MyManager/Classes/FHQuartzCore.h; sourceTree = "<group>"; };
+		81D9FCD221B62CE1006A7BF0 /* MacroDefinitionHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MacroDefinitionHeader.h; path = MyManager/Classes/MacroDefinitionHeader.h; sourceTree = "<group>"; };
 		851AB751D8C69C7395D850790C1EA527 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9E055126118D62F234825B72C6A37D72 /* Pods-MyManager_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MyManager_Example-dummy.m"; sourceTree = "<group>"; };
@@ -1146,6 +1148,7 @@
 				81D9FC0321B61D9C006A7BF0 /* FHFoundation.h */,
 				81D9FC0921B61D9C006A7BF0 /* FHQuartzCore.h */,
 				81D9FC0421B61D9C006A7BF0 /* FHUIKit.h */,
+				81D9FCD221B62CE1006A7BF0 /* MacroDefinitionHeader.h */,
 				435A7AFF33986D4ABB8B064278B7D57A /* Pod */,
 				28572830D2A3CE148CD74D75FD4073B2 /* Support Files */,
 			);
@@ -1244,6 +1247,7 @@
 				81D9FCC021B61D9C006A7BF0 /* NSObject+FHSuperExt.h in Headers */,
 				81D9FC2D21B61D9C006A7BF0 /* UIView+BorderRadius.h in Headers */,
 				81D9FC9B21B61D9C006A7BF0 /* NSData+FHSuperExt.h in Headers */,
+				81D9FCD321B62CE1006A7BF0 /* MacroDefinitionHeader.h in Headers */,
 				81D9FC9921B61D9C006A7BF0 /* NSFileManager+FHSuperExt.h in Headers */,
 				81D9FCA721B61D9C006A7BF0 /* NSString+Hash.h in Headers */,
 				81D9FC9721B61D9C006A7BF0 /* UITextField+FHSuperExt.h in Headers */,

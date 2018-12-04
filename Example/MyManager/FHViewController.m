@@ -7,7 +7,7 @@
 //
 
 #import "FHViewController.h"
-#import <MyManager/MyManager-umbrella.h>
+
 @interface FHViewController ()
 
 @end
