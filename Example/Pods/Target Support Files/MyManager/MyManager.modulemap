@@ -1,0 +1,6 @@
+framework module MyManager {
+  umbrella header "MyManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
