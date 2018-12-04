@@ -1,5 +1,5 @@
 PODS:
-  - MyManager (0.1.0)
+  - MyManager (0.0.1)
 
 DEPENDENCIES:
   - MyManager (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MyManager: 8251eda198fed1e87c525105401318549900b16e
+  MyManager: c0634bbfd6d19f90f606a6d596a9451b10c3d3ce
 
 PODFILE CHECKSUM: 6e9829fd3e5c935ad446087c79bf1cc0628b471c
 
